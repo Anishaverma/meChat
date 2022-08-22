@@ -1,0 +1,48 @@
+.appContainer {
+    height: 90vh;
+    /* border : 2px solid black */
+}
+
+.right {
+    float: right;
+    clear: both;
+    border: 2px solid gray;
+    padding: 0.4rem 2rem;
+    background-color: rgba(13, 82, 13, 0.717);
+    box-shadow: 1px 1px 1px 1px;
+    color: white ;
+    border-radius: 7px;
+    max-width: 60%;
+    text-align: start;
+    margin : 10px 0px
+}
+
+.left {
+    float: left;
+    clear: both;
+    border: 2px solid gray;
+    padding: 0.4rem 2rem;
+    background-color: rgba(36, 167, 36, 0.717);
+    color: white;
+    border-radius: 7px;
+    max-width: 60%;
+    box-shadow: 1px 1px 1px 1px;
+    margin : 10px 0px
+}
+
+.center {
+    /* height: 10px; */
+    clear: both;
+    padding: 3px 35px;
+    font-size: 0.8rem;
+    border-radius: 21px;
+    background-color: #d3d3d354;
+    display: block;
+    margin : 10px 0px;
+}
+
+.typing{
+    float: left;
+    clear: both;
+    font-style: italic;
+}
